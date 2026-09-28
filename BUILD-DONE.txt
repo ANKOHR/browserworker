@@ -1,0 +1,4 @@
+Test count: 10 passed
+Local implementation commit hash: b82b165
+
+BrowserWorker is a Python CLI and package for validating and running explicit JSON browser scripts in real Chromium with a fixed retry policy, per-step screenshots, append-only audit records, pause and resume handoffs, and HTML or Markdown reports. It includes a standard-library localhost fixture site with login, search, results, and a once-failing button, plus tests that exercise the real browser only against those fixtures. The README documents setup, architecture, task fields, CLI usage, reproducibility, and the honesty boundary.
