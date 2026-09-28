@@ -1,0 +1,12 @@
+browserworker-prompt.txt
+bw-launch.py
+bw-codex.log
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+bw-audit.jsonl
+/runs/
